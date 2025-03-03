@@ -1,5 +1,3 @@
-Oui, je connais ton nom, Mohamed Senhoury. Voici un README mis à jour avec ton dépôt GitHub :  
-
 ---
 
 # 🎙️ Assistant de Collecte de Demandes - MerciYanis  
@@ -56,5 +54,3 @@ L'assistant va te guider en posant des questions vocales :
 Ce projet est sous licence MIT.  
 
 ---
-
-Si tu veux modifier ou ajouter quelque chose, dis-moi ! 🚀
